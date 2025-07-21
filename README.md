@@ -10,6 +10,7 @@ Clean. Calm. Controlled.
 
 
 <br>
+<br>
 
 
 👉 **Get it on Gumroad 
@@ -18,6 +19,8 @@ Includes lifetime access to any future updates:**
 🎯 [Buy the Almost No Markdown Vault →](https://nomarkdown.gumroad.com/l/vault)
 
 
+<br>
+<br>
 
 🔍 What This Vault Does
 
