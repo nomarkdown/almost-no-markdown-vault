@@ -26,38 +26,40 @@ Includes lifetime access to any future updates:**
 
 The Almost No Markdown Vault disables most visible Markdown formatting, including:
 
-`Bold (**bold**)
+Bold (**bold**)
 
-`Italic (*italic*)
+Italic (*italic*)
 
-`Inline code (`code`)
+Inline code (`code`)
 
-`Code blocks (``` or ~~~)
+Code blocks (``` or ~~~)
 
-`Headings (# Heading)
+Headings (# Heading)
 
-`Horizontal rules (---, ***)
+Horizontal rules (---, ***)
 
-`Blockquotes (> quote)
+Blockquotes (> quote)
 
-`Internal links ([[link]])
+Internal links ([[link]])
 
-`Numbered and bulleted lists (1., - item)
+Numbered and bulleted lists (1., - item)
 
-`Checklists (- [ ])
+Checklists (- [ ])
 
-`Superscript (^text)
+Superscript (^text)
 
-`Inline math ($math$)
+Inline math ($math$)
 
-`HTML tags (<b>, <div>, etc.)
+HTML tags (`<b>, <div>, etc.`)
 
-`Hidden formatting triggered by the Tab key
+Hidden formatting triggered by the Tab key
 
 
 This lets you type freely without fear of your text changing appearance, activating styling, or triggering invisible formatting behaviors.
 
 
+<br>
+<br>
 
 
 ✅ What Still Works
@@ -70,6 +72,8 @@ This lets you type freely without fear of your text changing appearance, activat
    You can revert at any time by disabling the plugin and snippet.
 
 
+<br>
+<br>
 
 
 📁 Joplin-Like Navigation
@@ -85,6 +89,8 @@ Note contents open in the main editing pane.
 This setup creates a clean, three-pane experience — just like Joplin — without the clutter of backlinks, tags, and popups. It's perfect for those who prefer structured notebooks over Obsidian's default graph/tag-centric layout.
 
 
+<br>
+<br>
 
 
 ### 📸 Markdown Comparison – Before vs After
@@ -109,6 +115,8 @@ This setup creates a clean, three-pane experience — just like Joplin — witho
 | Tab-triggered Formatting | ![](_assets/screenshots/tab1.png)           | ![](_assets/screenshots/tab2.png)           |
 
 
+<br>
+<br>
 
 
 ## 🚧 What Still Works (Unintentionally)
@@ -138,11 +146,12 @@ While this vault disables nearly all visible Markdown formatting, three formatti
 
     For now, treat # like a special character — it won’t look like a heading, but it still behaves like one (e.g. appears in the outline panel).
 
-
+<br>
 
 📘 Want to see what Markdown normally does in Obsidian? [View full Markdown behavior examples →](/_assets/Markdown-Reference.md)
 
-
+<br>
+<br>
 
 🔧 How It Works
 
@@ -155,6 +164,8 @@ A CSS snippet (disable-inline-formatting.css) to visually suppress most formatti
 ⚠️ Note: The Tab key is intentionally disabled in this vault to prevent it from activating hidden formatting behaviors like code blocks.
 
 
+<br>
+<br>
 
 
 📦 Installation
@@ -166,6 +177,8 @@ How to open this vault or switch from another
 How to import your existing notes into this vault
 
 
+<br>
+<br>
 
 
 💡 Ideal For...
@@ -176,7 +189,8 @@ How to import your existing notes into this vault
    Technical users tired of accidental styling
 
 
-
+<br>
+<br>
 
 
 ❓ FAQ
@@ -191,6 +205,8 @@ Q: Can I undo this later?
 Yes — you can remove the plugin and CSS snippet at any time to return to full Markdown rendering.
 
 
+<br>
+<br>
 
 
 🛒 Get the Vault
@@ -200,6 +216,8 @@ Grab the vault here:
 [nomarkdown.gumroad.com/l/vault](https://nomarkdown.gumroad.com/l/vault)  
 
 
+<br>
+<br>
 
 
 📬 Support
