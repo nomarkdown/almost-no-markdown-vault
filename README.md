@@ -14,7 +14,7 @@ Clean. Calm. Controlled.
 
 
 👉 **Get it on Gumroad 
-Intro price - $20 one-time
+<br>Intro price - $20 one-time
 <br>Includes lifetime access to any future updates:**  
 🎯 [Buy the Almost No Markdown Vault →](https://nomarkdown.gumroad.com/l/vault)
 
