@@ -15,7 +15,7 @@ Clean. Calm. Controlled.
 
 👉 **Get it on Gumroad 
 Intro price - $20 one-time
-Includes lifetime access to any future updates:**  
+<br>Includes lifetime access to any future updates:**  
 🎯 [Buy the Almost No Markdown Vault →](https://nomarkdown.gumroad.com/l/vault)
 
 
@@ -212,8 +212,7 @@ Yes — you can remove the plugin and CSS snippet at any time to return to full 
 🛒 Get the Vault
 
 Grab the vault here:
-👉 nomarkdown.gumroad.com/l/vault
-[nomarkdown.gumroad.com/l/vault](https://nomarkdown.gumroad.com/l/vault)  
+👉 [nomarkdown.gumroad.com/l/vault](https://nomarkdown.gumroad.com/l/vault)  
 
 
 <br>
