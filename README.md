@@ -9,14 +9,14 @@ Clean. Calm. Controlled.
 📁 Includes Joplin-style sidebar navigation using the Notebook Navigator plugin, giving you a familiar folder-based workflow.
 
 
+
+
 👉 **Get it on Gumroad 
 Intro price - $20 one-time
 Includes lifetime access to any future updates:**  
 🎯 [Buy the Almost No Markdown Vault →](https://nomarkdown.gumroad.com/l/vault)
 
 
-📦 [nomarkdownvault.com](https://nomarkdownvault.com)  
-Learn more or share with friends — this is the official site for the vault.
 
 
 
@@ -57,6 +57,7 @@ This lets you type freely without fear of your text changing appearance, activat
 
 
 
+
 ✅ What Still Works
 
    Markdown still functions behind the scenes — your notes remain portable and markdown-valid.
@@ -65,6 +66,7 @@ This lets you type freely without fear of your text changing appearance, activat
 
    Files and folders work exactly as in a normal vault.
    You can revert at any time by disabling the plugin and snippet.
+
 
 
 
@@ -79,6 +81,7 @@ Notes appear in a central list when clicking a folder.
 Note contents open in the main editing pane.
 
 This setup creates a clean, three-pane experience — just like Joplin — without the clutter of backlinks, tags, and popups. It's perfect for those who prefer structured notebooks over Obsidian's default graph/tag-centric layout.
+
 
 
 
@@ -102,6 +105,7 @@ This setup creates a clean, three-pane experience — just like Joplin — witho
 | Math                     | ![](_assets/screenshots/math1.png)          | ![](_assets/screenshots/math2.png)          |
 | HTML Tags                | ![](_assets/screenshots/html1.png)          | ![](_assets/screenshots/html2.png)          |
 | Tab-triggered Formatting | ![](_assets/screenshots/tab1.png)           | ![](_assets/screenshots/tab2.png)           |
+
 
 
 
@@ -133,7 +137,9 @@ While this vault disables nearly all visible Markdown formatting, three formatti
     For now, treat # like a special character — it won’t look like a heading, but it still behaves like one (e.g. appears in the outline panel).
 
 
+
 📘 Want to see what Markdown normally does in Obsidian? [View full Markdown behavior examples →](/_assets/Markdown-Reference.md)
+
 
 
 🔧 How It Works
@@ -148,6 +154,7 @@ A CSS snippet (disable-inline-formatting.css) to visually suppress most formatti
 
 
 
+
 📦 Installation
 
 See [[Setup Instructions.txt]] for full setup steps, including:
@@ -158,12 +165,14 @@ How to import your existing notes into this vault
 
 
 
+
 💡 Ideal For...
 
    Writers who want zero formatting distractions
    Joplin users switching to Obsidian
    Plaintext minimalists
    Technical users tired of accidental styling
+
 
 
 
@@ -181,19 +190,13 @@ Yes — you can remove the plugin and CSS snippet at any time to return to full 
 
 
 
+
 🛒 Get the Vault
 
 Grab the vault here:
 👉 nomarkdown.gumroad.com/l/vault
+[nomarkdown.gumroad.com/l/vault](https://nomarkdown.gumroad.com/l/vault)  
 
-
-
-📁 _assets Folder
-
-This vault includes an `_assets` folder, which contains the screenshots used in this README.
-
-- You can ignore it — it doesn't affect your notes or plugins.
-- **Do not delete or move it**, or the README images will break.
 
 
 
