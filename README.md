@@ -9,7 +9,7 @@ Clean. Calm. Controlled.
 📁 Includes Joplin-style sidebar navigation using the Notebook Navigator plugin, giving you a familiar folder-based workflow.
 
 
-
+<br>
 
 
 👉 **Get it on Gumroad 
