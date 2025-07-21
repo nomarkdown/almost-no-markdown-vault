@@ -8,15 +8,12 @@ Clean. Calm. Controlled.
 
 📁 Includes Joplin-style sidebar navigation using the Notebook Navigator plugin, giving you a familiar folder-based workflow.
 
-
-
+␣␣
 
 👉 **Get it on Gumroad 
 Intro price - $20 one-time
 Includes lifetime access to any future updates:**  
 🎯 [Buy the Almost No Markdown Vault →](https://nomarkdown.gumroad.com/l/vault)
-
-
 
 
 
